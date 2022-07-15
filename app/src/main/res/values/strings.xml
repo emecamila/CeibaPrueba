@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CeibaPrueba</string>
+    <string name="t_ver_publicaciones">VER PUBLICACIONES</string>
+    <string name="t_empty_msg">List is empty</string>
+</resources>
